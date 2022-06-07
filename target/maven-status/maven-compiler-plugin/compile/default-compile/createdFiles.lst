@@ -1,0 +1,6 @@
+in\reqres\info\ReqresSteps.class
+in\reqres\constants\Path.class
+in\reqres\model\Pojo.class
+in\reqres\utils\TestUtils.class
+in\reqres\constants\EndPoints.class
+in\reqres\utils\PropertyReader.class

@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reqres CURD test with steps","Verify that new user is added","ERROR","2022-06-06T23:18:23.700+01:00[Europe/London]","0.0","7.06"
+"Reqres CURD test with steps","This will login a user","ERROR","2022-06-06T23:18:32.973+01:00[Europe/London]","0.0","6.59"
+"Reqres CURD test with steps","This will update a user by PUT","ERROR","2022-06-06T23:18:39.605+01:00[Europe/London]","0.0","0.07"
+"Reqres CURD test with steps","This will update a user by Patch","ERROR","2022-06-06T23:18:39.695+01:00[Europe/London]","0.0","0.26"
+"Reqres CURD test with steps","This will update a user by Patch","ERROR","2022-06-06T23:18:39.997+01:00[Europe/London]","0.0","0.46"
+"Reqres CURD test with steps","This will create a new user","ERROR","2022-06-06T23:18:40.469+01:00[Europe/London]","0.0","0.13"
